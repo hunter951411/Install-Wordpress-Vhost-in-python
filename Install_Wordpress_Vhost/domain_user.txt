@@ -1,0 +1,6 @@
+vidu1.com#vidu1user#12345
+vidu2.com#vidu2user#12345
+vidu3.com#vidu3user#12345
+vidu4.com#vidu4user#12345
+vidu5.com#vidu5user#12345
+vidu6.com#vidu6user#12345
